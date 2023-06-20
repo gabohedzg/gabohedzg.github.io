@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Pictures/Saved Pictures"
+		},
+		{
+			"path": "../Saved Pictures"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pagina"
+	}
+}
